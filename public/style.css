@@ -1,0 +1,156 @@
+header, section, footer, aside, nav, main, article, figure {
+    display: block; 
+}
+
+body {
+	margin:0;
+	box-sizing: border-box;
+	font-family: Helvetica;
+}
+
+nav {
+	/*width: 100%;
+	/*height: 70px;*/
+	
+    background: rgba(255, 255, 255, 0.7);
+    top: 0;
+    left: 0;
+    right:0;
+  
+	/*border-bottom: solid #ddd;*/
+	
+}
+
+nav a {
+	text-decoration: none;
+}
+
+.navbar-image {
+	float:left;
+	vertical-align: bottom;
+}
+
+.right-menu {
+	float: right;
+	color: white;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	padding-right: 20px;
+	padding-left: 20px;
+	
+	box-sizing: border-box;
+
+}
+
+.signUp-menu2 {
+	
+	background-color: white;
+	color: black;
+	font-family: Quicksand;
+	font-weight: bold;
+	text-align: right;	
+	font-size: 20px;
+	font-weight: bold;
+	padding-right: 20px;
+	padding-left: 700px;
+	padding-top: 20px;
+	box-sizing: border-box;
+
+}
+
+.main-image img {
+	width: 100%;
+	height: 492px;
+	margin: 0;
+    padding: 0;
+
+	/*margin-top: 70px;*/
+	z-index: -1;
+}
+
+.main-image h2 { 
+   position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 100%; 
+   z-index: 100; 
+   color: white;
+   text-align: right;
+}
+
+.section-two {
+	height: 800px;
+	
+}
+
+.heading {
+	font-family: Comic Sans MS;
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.blue-text {
+	color: #26C2FD;
+	text-align: center;
+}
+
+.who-ke-are {
+	border-top: solid #ddd;
+	border-bottom: solid #ddd;
+	/*background-color: #ddd;*/
+}
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+
+[class*="col-"] {
+    float: left;
+    
+}
+
+.row {
+ display: flex;
+ flex-wrap: nowrap;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.section-three {
+	/*font-family: Comic Sans MS;*/
+	text-align: center;
+	margin-top: 200px; 
+	padding-right: 50px;
+	height: 100px;
+}
+
+.kesignup {
+    background-color: #5368EE; /* Purple */
+    border-radius: 5px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 14px;
+}
+
+
