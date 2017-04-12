@@ -78,6 +78,7 @@ body {
 	font-family: Quicksand, Arial, sans-serif;
 	font-size: 40px;
 	padding-right: 40px;
+	float: right;
 }
 
 .section-two {
