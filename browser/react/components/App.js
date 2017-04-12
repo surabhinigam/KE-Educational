@@ -22,10 +22,12 @@ export default class KEHome extends React.Component {
   return (
     <div id="main">
       <nav>
-  <a href="/html/" className="navbar-image "><img src="logo-small.png" /></a> 
+      
+  <a href="#"><img src="logo_3.png" className= "navbar-image"/></a> 
+
   <span className="right-menu">
   <a href="#" className="signUp-menu2">LOG IN</a>
-  <a> <input type="button" value="BECOME A MEMBER" className="kesignup"/></a>
+  <a> <input type="button" value="BECOME A KID EXPERT" className="kesignup"/></a>
   </span>
 </nav> 
 
@@ -110,7 +112,7 @@ export default class KEHome extends React.Component {
 
 
 <section className="section-three">
-<input type="button" value="Become a Kid Expert" className="kesignup"/>
+<input type="button" value="BECOME A KID EXPERT" className="kesignup"/>
 </section>
 
     </div>
