@@ -22,7 +22,7 @@ export default class KEHome extends React.Component {
   return (
     <div id="main">
 <section className="main-image">
-  <img src="Main3.jpg" />
+  <img src="Main5.jpg" />
   <h2><span>REIMAGINE BABYSITTING<br />WITH ACTIVITIES</span></h2>
 </section>
 
@@ -46,7 +46,7 @@ export default class KEHome extends React.Component {
   </div>
   <div className="col-2">
   <figure>
-      <img src="main-idea-transparent.jpg" alt="Ideas" />
+      <img src="main-idea.jpg" alt="Ideas" />
       <figcaption className="blue-text">INCORPORATE UNIQUE, ENRICHING ACTIVITIES INTO CHILDCARE</figcaption>
     </figure> 
   </div>

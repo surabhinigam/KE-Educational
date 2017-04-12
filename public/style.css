@@ -71,12 +71,13 @@ body {
    z-index: 1; 
    color: white;
    text-align: right;
-   padding-right: 40px;
+   
 }
 
 .main-image h2 span {
 	font-family: Quicksand, Arial, sans-serif;
 	font-size: 40px;
+	padding-right: 40px;
 }
 
 .section-two {
