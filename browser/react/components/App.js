@@ -35,8 +35,9 @@ export default class KEHome extends React.Component {
     
   </div>
   <div className="col-2">
+  
     <figure>
-      <img src="babysitter.jpeg" alt="Books" width="200" height="200" />
+      <img src="baby2.jpg" alt="Baby"  />
       <figcaption className="blue-text">COVER BABYSITTING NEEDS (MEALS, NAPS, PICK-UP)</figcaption>
     </figure>
   </div>
@@ -45,7 +46,7 @@ export default class KEHome extends React.Component {
   </div>
   <div className="col-2">
   <figure>
-      <img src="paint.jpg" alt="Books" width="200" height="200" />
+      <img src="main-idea.jpg" alt="Ideas" />
       <figcaption className="blue-text">INCORPORATE UNIQUE, ENRICHING ACTIVITIES INTO CHILDCARE</figcaption>
     </figure> 
   </div>
@@ -54,7 +55,7 @@ export default class KEHome extends React.Component {
   </div>
   <div className="col-2">
     <figure>
-      <img src="canvas.jpg" alt="Books" width="200" height="200" />
+      <img src="gift.jpg" alt="Materials" />
       <figcaption className="blue-text">BRING MATERIALS AND PROPS TO EVERY SESSION</figcaption>
     </figure>
     
@@ -71,7 +72,7 @@ export default class KEHome extends React.Component {
       </div>
       <div className="col-2">
         <figure>
-          <img src="glasses.jpg" alt="Books" width="200" height="200" />
+          <img src="knowledge.jpg" alt="Knowledge" />
           <figcaption className="blue-text">ARTISTS, TEACHERS AND TEACHING ASSISTANTS WITH PROFESSIONAL TEACHING EXPERIENCE</figcaption>
         </figure>
       </div>
@@ -80,7 +81,7 @@ export default class KEHome extends React.Component {
       </div>
       <div className="col-2">
       <figure>
-          <img src="star.png" alt="Books" width="200" height="200" />
+          <img src="alphabets.jpg" alt="Alphabets" />
           <figcaption className="blue-text">BABY WHISHPERS AND KID GURUS WITH CHILDCARE/BABYSITTING EXPERIENCE</figcaption>
         </figure> 
       </div>
@@ -89,7 +90,7 @@ export default class KEHome extends React.Component {
       </div>
       <div className="col-2">
         <figure>
-          <img src="heart.jpg" alt="Books" width="200" height="200" />
+          <img src="light.jpg" alt="Light" />
           <figcaption className="blue-text">INSPIRING ROLE MODELS AND GOOD VIBES PEOPLE WHO LOVE KIDS</figcaption>
         </figure>
         
