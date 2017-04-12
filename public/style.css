@@ -53,12 +53,12 @@ body {
 }
 
 .main-image img {
-	/*width: 100%;*/
+	width: 100%;
 	display: block;
     margin: 0 auto;
     position: relative;
-	/*height: 492px;
-    padding: 0;*/
+	/*height: 492px;*/
+    padding: 0;
 
 	
 }
