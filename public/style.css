@@ -71,7 +71,7 @@ body {
    z-index: 1; 
    color: white;
    text-align: right;
-   right: 40px;
+   padding-right: 40px;
 }
 
 .main-image h2 span {
