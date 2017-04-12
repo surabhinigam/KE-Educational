@@ -21,24 +21,24 @@ export default class KEHome extends React.Component {
   render() {
   return (
     <div id="main">
-<section className="main-image">
-  <img src="/sites/all/modules/custom/cc-react/images/Main5.jpg" />
+<section className="react-main-image">
+  <img src="Main5.jpg" />
   <h2><span>REIMAGINE <br />BABYSITTING<br />WITH <br /> ACTIVITIES</span></h2>
 </section>
 
-<section className="section-two">
-  <p className="heading">
+<section className="react-section-two">
+  <p className="react-heading">
     WHAT KID EXPERTS DO 
   </p>
-  <div className="row">
+  <div className="react-row">
   <div className="col-2">
     
   </div>
   <div className="col-2">
   
     <figure>
-      <img src="/sites/all/modules/custom/cc-react/images/baby2.jpg" alt="Baby"  />
-      <figcaption className="blue-text">COVER BABYSITTING NEEDS (MEALS, NAPS, PICK-UP)</figcaption>
+      <img src="baby2.jpg" alt="Baby"  />
+      <figcaption className="react-blue-text">COVER BABYSITTING NEEDS (MEALS, NAPS, PICK-UP)</figcaption>
     </figure>
   </div>
   <div className="col-1">
@@ -46,8 +46,8 @@ export default class KEHome extends React.Component {
   </div>
   <div className="col-2">
   <figure>
-      <img src="/sites/all/modules/custom/cc-react/images/main-idea.jpg" alt="Ideas" />
-      <figcaption className="blue-text">INCORPORATE UNIQUE, ENRICHING ACTIVITIES INTO CHILDCARE</figcaption>
+      <img src="main-idea.jpg" alt="Ideas" />
+      <figcaption className="react-blue-text">INCORPORATE UNIQUE, ENRICHING ACTIVITIES INTO CHILDCARE</figcaption>
     </figure> 
   </div>
   <div className="col-1">
@@ -55,8 +55,8 @@ export default class KEHome extends React.Component {
   </div>
   <div className="col-2">
     <figure>
-      <img src="/sites/all/modules/custom/cc-react/images/gift.jpg" alt="Materials" />
-      <figcaption className="blue-text">BRING MATERIALS AND PROPS TO EVERY SESSION</figcaption>
+      <img src="gift.jpg" alt="Materials" />
+      <figcaption className="react-blue-text">BRING MATERIALS AND PROPS TO EVERY SESSION</figcaption>
     </figure>
     
   </div>
@@ -64,16 +64,16 @@ export default class KEHome extends React.Component {
     
   </div>
   </div>
-  <section className="who-ke-are">
-  <p className="heading">WHO KID EXPERTS ARE</p>
-    <div className="row">
+  <section className="react-who-ke-are">
+  <p className="react-heading">WHO KID EXPERTS ARE</p>
+    <div className="react-row">
       <div className="col-2">
         
       </div>
       <div className="col-2">
         <figure>
-          <img src="/sites/all/modules/custom/cc-react/images/knowledge.jpg" alt="Knowledge" />
-          <figcaption className="blue-text">ARTISTS, TEACHERS AND TEACHING ASSISTANTS WITH PROFESSIONAL TEACHING EXPERIENCE</figcaption>
+          <img src="knowledge.jpg" alt="Knowledge" />
+          <figcaption className="react-blue-text">ARTISTS, TEACHERS AND TEACHING ASSISTANTS WITH PROFESSIONAL TEACHING EXPERIENCE</figcaption>
         </figure>
       </div>
       <div className="col-1">
@@ -81,8 +81,8 @@ export default class KEHome extends React.Component {
       </div>
       <div className="col-2">
       <figure>
-          <img src="/sites/all/modules/custom/cc-react/images/alphabets.jpg" alt="Alphabets" />
-          <figcaption className="blue-text">BABY WHISHPERS AND KID GURUS WITH CHILDCARE/BABYSITTING EXPERIENCE</figcaption>
+          <img src="alphabets.jpg" alt="Alphabets" />
+          <figcaption className="react-blue-text">BABY WHISHPERS AND KID GURUS WITH CHILDCARE/BABYSITTING EXPERIENCE</figcaption>
         </figure> 
       </div>
       <div className="col-1">
@@ -90,8 +90,8 @@ export default class KEHome extends React.Component {
       </div>
       <div className="col-2">
         <figure>
-          <img src="/sites/all/modules/custom/cc-react/images/light.jpg" alt="Light" />
-          <figcaption className="blue-text">INSPIRING ROLE MODELS AND GOOD VIBES PEOPLE WHO LOVE KIDS</figcaption>
+          <img src="light.jpg" alt="Light" />
+          <figcaption className="react-blue-text">INSPIRING ROLE MODELS AND GOOD VIBES PEOPLE WHO LOVE KIDS</figcaption>
         </figure>
         
       </div>
@@ -103,8 +103,8 @@ export default class KEHome extends React.Component {
 </section>
 
 
-<section className="section-three">
-<input type="button" value="BECOME A KID EXPERT" className="kesignup"/>
+<section className="react-section-three">
+<input type="button" value="BECOME A KID EXPERT" className="react-kesignup"/>
 </section>
 
     </div>

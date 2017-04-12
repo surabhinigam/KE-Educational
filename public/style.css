@@ -2,7 +2,7 @@ header, section, footer, aside, nav, main, article, figure {
     display: block; 
 }
 
-body {
+.react-body {
 	margin:0;
 	box-sizing: border-box;
 	font-family: Quicksand, Arial, sans-serif;
@@ -10,14 +10,14 @@ body {
 
 
 
-.navbar-image {
+.react-navbar-image {
 	float:left;
 	vertical-align: bottom;
 	height: 35px;
 	width: 210px;
 }
 
-.right-menu {
+.react-right-menu {
 	float: right;
 	color: white;
 	text-align: center;
@@ -31,7 +31,7 @@ body {
 
 }
 
-.signUp-menu2 {
+.react-signUp-menu2 {
 	
 	background-color: white;
 	color: black;
@@ -47,12 +47,12 @@ body {
 
 }
 
-.main-background {
+.react-main-background {
 	background-image: url("background.jpeg");
 
 }
 
-.main-image img {
+.react-main-image img {
 	width: 100%;
 	display: block;
     margin: 0 auto;
@@ -63,7 +63,7 @@ body {
 	
 }
 
-.main-image h2 { 
+.react-main-image h2 { 
    position: absolute; 
    top: 200px; 
    left: 0; 
@@ -74,21 +74,21 @@ body {
    
 }
 
-.main-image h2 span {
+.react-main-image h2 span {
 	font-family: Quicksand, Arial, sans-serif;
 	font-size: 40px;
 	padding-right: 40px;
 	float: right;
 }
 
-.section-two {
+.react-section-two {
 	/*background-color: #F8F8FF;*/
 	padding-top: 50px;
 	padding-bottom: 30px;
 	
 }
 
-.heading {
+.react-heading {
 	font-family: Quicksand,Arial,sans-serif;
 	text-align: center;
 	font-size: 34px;
@@ -97,17 +97,17 @@ body {
 	color: #6F727A;
 }
 
-.blue-text {
+.react-blue-text {
 	color: #5368EE;
 	text-align: center;
 }
 
-.who-ke-are {
+.react-who-ke-are {
 	border-top: solid #ddd;
 	border-bottom: solid #ddd;
 	padding-top: 50px;
 	padding-bottom: 50px;
-	/*background-color: #ddd;*/
+	background-color: #ddd;
 }
 
 .col-1 {width: 8.33%;}
@@ -129,18 +129,18 @@ body {
     
 }
 
-.row {
+.react-row {
  display: flex;
  flex-wrap: nowrap;
 }
 
-.row::after {
+.react-row::after {
     content: "";
     clear: both;
     display: table;
 }
 
-.section-three {
+.react-section-three {
 	/*font-family: Comic Sans MS;*/
 	text-align: center;
 	margin-top: 50px; 
@@ -148,7 +148,7 @@ body {
 	height: 100px;
 }
 
-.kesignup {
+.react-kesignup {
     background-color: #5368EE; /* Purple */
     border-radius: 5px;
     border: none;
