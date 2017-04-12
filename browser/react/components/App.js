@@ -37,7 +37,7 @@ export default class KEHome extends React.Component {
 
 <section className="section-two">
   <p className="heading">
-    What Kid Experts do 
+    WHAT KID EXPERTS DO 
   </p>
   <div className="row">
   <div className="col-2">
@@ -73,7 +73,7 @@ export default class KEHome extends React.Component {
   </div>
   </div>
   <section className="who-ke-are">
-  <p className="heading">Who kid experts are</p>
+  <p className="heading">WHO KID EXPERTS ARE</p>
     <div className="row">
       <div className="col-2">
         
