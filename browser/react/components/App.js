@@ -21,18 +21,9 @@ export default class KEHome extends React.Component {
   render() {
   return (
     <div id="main">
-      <nav>
-      
-  <a href="#"><img src="logo_3.png" className= "navbar-image"/></a> 
-
-  <span className="right-menu">
-  <a href="#" className="signUp-menu2">LOG IN</a>
-  <a> <input type="button" value="BECOME A KID EXPERT" className="kesignup"/></a>
-  </span>
-</nav> 
-
 <section className="main-image">
   <img src="Main2.jpg" />
+  <h2><span>REIMAGINE BABYSITTING<br />WITH ACTIVITIES</span></h2>
 </section>
 
 <section className="section-two">
