@@ -79,6 +79,8 @@ header, section, footer, aside, nav, main, article, figure {
 	font-size: 60px;
 	padding-right: 150px;
 	float: right;
+	display:block;
+	text-align: center;
 }
 
 .react-section-two {
@@ -94,11 +96,27 @@ header, section, footer, aside, nav, main, article, figure {
 	font-size: 34px;
 	font-weight: 500;
 	/*font-weight: bold;*/
-	color: #6F727A;
+	/*color: #6F727A;*/
+	color: #606263;
 }
 
 .react-blue-text {
+	color: #26C2FD;
+	text-align: center;
+	display:block;
+	padding-left: 5px;
+}
+
+.react-purple-text {
 	color: #5368EE;
+	display:block;
+	text-align: center;
+}
+
+.react-grey-text {
+	/*color: #C8CACB;*/
+	color: #606263;
+	display:block;
 	text-align: center;
 }
 

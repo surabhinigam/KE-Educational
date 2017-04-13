@@ -20,7 +20,7 @@ export default class KEHome extends React.Component {
 
   render() {
   return (
-    <div id="main">
+<div id="main">
 <section className="react-main-image">
   <img src="Main5.jpg" />
   <h2><span>REIMAGINE <br />BABYSITTING<br />WITH <br /> ACTIVITIES</span></h2>
@@ -38,7 +38,8 @@ export default class KEHome extends React.Component {
   
     <figure>
       <img src="baby.png" alt="Baby"  />
-      <figcaption className="react-blue-text">COVER BABYSITTING NEEDS (MEALS, NAPS, PICK-UP)</figcaption>
+      <figcaption><span className="react-purple-text">CHILDCARE </span> <br /><span className="react-blue-text"> - </span><br /><span className="react-grey-text">Cover babysitting needs 
+(meals, naps, pick up)</span></figcaption>
     </figure>
   </div>
   <div className="col-1">
@@ -47,7 +48,8 @@ export default class KEHome extends React.Component {
   <div className="col-2">
   <figure>
       <img src="drum.png" alt="Ideas" />
-      <figcaption className="react-blue-text">INCORPORATE UNIQUE, ENRICHING ACTIVITIES INTO CHILDCARE</figcaption>
+      <figcaption><span className="react-purple-text">ACTIVITIES </span><br /><span className="react-blue-text"> - </span><br /><span className="react-grey-text">Incorporate unique, enriching
+   activities into childcare</span></figcaption>
     </figure> 
   </div>
   <div className="col-1">
@@ -56,7 +58,8 @@ export default class KEHome extends React.Component {
   <div className="col-2">
     <figure>
       <img src="gift.png" alt="Materials" />
-      <figcaption className="react-blue-text">BRING MATERIALS AND PROPS TO EVERY SESSION</figcaption>
+      <figcaption><span className="react-purple-text">SUPPLIES</span><br /><span className="react-blue-text">-</span><br /><span className="react-grey-text">Bring materials and props
+to every session</span></figcaption>
     </figure>
     
   </div>
@@ -73,7 +76,7 @@ export default class KEHome extends React.Component {
       <div className="col-2">
         <figure>
           <img src="compass-transparent.png" alt="Knowledge" />
-          <figcaption className="react-blue-text">ARTISTS, TEACHERS AND TEACHING ASSISTANTS WITH PROFESSIONAL TEACHING EXPERIENCE</figcaption>
+          <figcaption><span className="react-purple-text">BRILLIANT </span><br /><span className="react-blue-text"> - </span><br /><span className="react-grey-text">Artists, teachers and teaching assistants with professional teaching experience</span></figcaption>
         </figure>
       </div>
       <div className="col-1">
@@ -82,7 +85,8 @@ export default class KEHome extends React.Component {
       <div className="col-2">
       <figure>
           <img src="diaper.png" alt="Alphabets" />
-          <figcaption className="react-blue-text">BABY WHISHPERS AND KID GURUS WITH CHILDCARE/BABYSITTING EXPERIENCE</figcaption>
+          <figcaption><span className="react-purple-text">EXPERIENCED</span><br /><span className="react-blue-text">-</span><br /><span className="react-grey-text">Baby whispers and kid gurus with childcare/babysitting experience</span></figcaption>
+          
         </figure> 
       </div>
       <div className="col-1">
@@ -91,7 +95,7 @@ export default class KEHome extends React.Component {
       <div className="col-2">
         <figure>
           <img src="light.png" alt="Light" />
-          <figcaption className="react-blue-text">INSPIRING ROLE MODELS AND GOOD VIBES PEOPLE WHO LOVE KIDS</figcaption>
+          <figcaption><span className="react-purple-text">INSPIRING</span><br /><span className="react-blue-text">-</span><br /><span className="react-grey-text">Inspiring role models and good vibes people who love kids</span></figcaption>
         </figure>
         
       </div>
