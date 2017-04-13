@@ -38,8 +38,8 @@ export default class KEHome extends React.Component {
   
     <figure>
       <img src="baby.png" alt="Baby"  />
-      <figcaption><span className="react-purple-text">CHILDCARE </span> <br /><span className="react-blue-text"> - </span><br /><span className="react-grey-text">Cover babysitting needs 
-(meals, naps, pick up)</span></figcaption>
+      <figcaption><span className="react-purple-text">CHILDCARE </span> <br /><span className="react-blue-text"> - </span><br /><p className="react-grey-text">Cover babysitting needs 
+(meals, naps, pick up)</p></figcaption>
     </figure>
   </div>
   <div className="col-1">
@@ -48,8 +48,8 @@ export default class KEHome extends React.Component {
   <div className="col-2">
   <figure>
       <img src="drum.png" alt="Ideas" />
-      <figcaption><span className="react-purple-text">ACTIVITIES </span><br /><span className="react-blue-text"> - </span><br /><span className="react-grey-text">Incorporate unique, enriching
-   activities into childcare</span></figcaption>
+      <figcaption><span className="react-purple-text">ACTIVITIES </span><br /><span className="react-blue-text"> - </span><br /><p className="react-grey-text">Incorporate unique, enriching
+   activities into childcare</p></figcaption>
     </figure> 
   </div>
   <div className="col-1">
@@ -58,8 +58,8 @@ export default class KEHome extends React.Component {
   <div className="col-2">
     <figure>
       <img src="gift.png" alt="Materials" />
-      <figcaption><span className="react-purple-text">SUPPLIES</span><br /><span className="react-blue-text">-</span><br /><span className="react-grey-text">Bring materials and props
-to every session</span></figcaption>
+      <figcaption><span className="react-purple-text">SUPPLIES</span><br /><span className="react-blue-text">-</span><br /><p className="react-grey-text">Bring materials and props
+to every session</p></figcaption>
     </figure>
     
   </div>
@@ -76,7 +76,7 @@ to every session</span></figcaption>
       <div className="col-2">
         <figure>
           <img src="compass-transparent.png" alt="Knowledge" />
-          <figcaption><span className="react-purple-text">BRILLIANT </span><br /><span className="react-blue-text"> - </span><br /><span className="react-grey-text">Artists, teachers and teaching assistants with professional teaching experience</span></figcaption>
+          <figcaption><span className="react-purple-text">BRILLIANT </span><br /><span className="react-blue-text"> - </span><br /><p className="react-grey-text">Artists, teachers and teaching assistants with professional teaching experience</p></figcaption>
         </figure>
       </div>
       <div className="col-1">
@@ -85,7 +85,7 @@ to every session</span></figcaption>
       <div className="col-2">
       <figure>
           <img src="diaper.png" alt="Alphabets" />
-          <figcaption><span className="react-purple-text">EXPERIENCED</span><br /><span className="react-blue-text">-</span><br /><span className="react-grey-text">Baby whispers and kid gurus with childcare/babysitting experience</span></figcaption>
+          <figcaption><span className="react-purple-text">EXPERIENCED</span><br /><span className="react-blue-text">-</span><br /><p className="react-grey-text">Baby whispers and kid gurus with childcare/babysitting experience</p></figcaption>
           
         </figure> 
       </div>
@@ -95,7 +95,7 @@ to every session</span></figcaption>
       <div className="col-2">
         <figure>
           <img src="light.png" alt="Light" />
-          <figcaption><span className="react-purple-text">INSPIRING</span><br /><span className="react-blue-text">-</span><br /><span className="react-grey-text">Inspiring role models and good vibes people who love kids</span></figcaption>
+          <figcaption><span className="react-purple-text">INSPIRING</span><br /><span className="react-blue-text">-</span><br /><p className="react-grey-text">Inspiring role models and good vibes people who love kids</p></figcaption>
         </figure>
         
       </div>

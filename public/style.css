@@ -111,21 +111,31 @@ header, section, footer, aside, nav, main, article, figure {
 	color: #5368EE;
 	display:block;
 	text-align: center;
+	font-size: 21px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 1px;
 }
 
 .react-grey-text {
-	/*color: #C8CACB;*/
-	color: #606263;
+	/*color: #C8CACB;
+	color: #606263;*/
+	color: #A6A8AA;
+	max-width: 245px;
+	margin: 0 auto;
 	display:block;
 	text-align: center;
+	font-weight: 500;
+	letter-spacing: 0.1px;
 }
 
 .react-who-ke-are {
-	border-top: solid #ddd;
-	border-bottom: solid #ddd;
+	/*border-top: solid #ddd;
+	border-bottom: solid #ddd;*/
 	padding-top: 50px;
 	padding-bottom: 50px;
-	background-color: #ddd;
+	/*background-color: #ddd;*/
+	background-color: #f2f4f4;
 }
 
 .col-1 {width: 8.33%;}
