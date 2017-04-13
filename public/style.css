@@ -76,8 +76,8 @@ header, section, footer, aside, nav, main, article, figure {
 
 .react-main-image h2 span {
 	font-family: Quicksand, Arial, sans-serif;
-	font-size: 40px;
-	padding-right: 40px;
+	font-size: 60px;
+	padding-right: 150px;
 	float: right;
 }
 
@@ -129,7 +129,7 @@ header, section, footer, aside, nav, main, article, figure {
     
 }
 
-.react-row {
+.react-row{
  display: flex;
  flex-wrap: nowrap;
 }

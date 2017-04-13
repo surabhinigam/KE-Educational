@@ -22,7 +22,7 @@ export default class KEHome extends React.Component {
   return (
     <div id="main">
 <section className="react-main-image">
-  <img src="sites/all/modules/custom/cc_react/images/Main5.jpg" />
+  <img src="Main5.jpg" />
   <h2><span>REIMAGINE <br />BABYSITTING<br />WITH <br /> ACTIVITIES</span></h2>
 </section>
 
@@ -30,14 +30,14 @@ export default class KEHome extends React.Component {
   <p className="react-heading">
     WHAT KID EXPERTS DO 
   </p>
-  <div className="react-row">
+  <div className="react-row row">
   <div className="col-2">
     
   </div>
   <div className="col-2">
   
     <figure>
-      <img src="sites/all/modules/custom/cc_react/images/baby2.jpg" alt="Baby"  />
+      <img src="baby.png" alt="Baby"  />
       <figcaption className="react-blue-text">COVER BABYSITTING NEEDS (MEALS, NAPS, PICK-UP)</figcaption>
     </figure>
   </div>
@@ -46,7 +46,7 @@ export default class KEHome extends React.Component {
   </div>
   <div className="col-2">
   <figure>
-      <img src="sites/all/modules/custom/cc_react/images/main-idea.jpg" alt="Ideas" />
+      <img src="drum.png" alt="Ideas" />
       <figcaption className="react-blue-text">INCORPORATE UNIQUE, ENRICHING ACTIVITIES INTO CHILDCARE</figcaption>
     </figure> 
   </div>
@@ -55,7 +55,7 @@ export default class KEHome extends React.Component {
   </div>
   <div className="col-2">
     <figure>
-      <img src="sites/all/modules/custom/cc_react/images/gift.jpg" alt="Materials" />
+      <img src="gift.png" alt="Materials" />
       <figcaption className="react-blue-text">BRING MATERIALS AND PROPS TO EVERY SESSION</figcaption>
     </figure>
     
@@ -72,7 +72,7 @@ export default class KEHome extends React.Component {
       </div>
       <div className="col-2">
         <figure>
-          <img src="sites/all/modules/custom/cc_react/images/knowledge.jpg" alt="Knowledge" />
+          <img src="compass-transparent.png" alt="Knowledge" />
           <figcaption className="react-blue-text">ARTISTS, TEACHERS AND TEACHING ASSISTANTS WITH PROFESSIONAL TEACHING EXPERIENCE</figcaption>
         </figure>
       </div>
@@ -81,7 +81,7 @@ export default class KEHome extends React.Component {
       </div>
       <div className="col-2">
       <figure>
-          <img src="sites/all/modules/custom/cc_react/images/alphabets.jpg" alt="Alphabets" />
+          <img src="diaper.png" alt="Alphabets" />
           <figcaption className="react-blue-text">BABY WHISHPERS AND KID GURUS WITH CHILDCARE/BABYSITTING EXPERIENCE</figcaption>
         </figure> 
       </div>
@@ -90,7 +90,7 @@ export default class KEHome extends React.Component {
       </div>
       <div className="col-2">
         <figure>
-          <img src="sites/all/modules/custom/cc_react/images/light.jpg" alt="Light" />
+          <img src="light.png" alt="Light" />
           <figcaption className="react-blue-text">INSPIRING ROLE MODELS AND GOOD VIBES PEOPLE WHO LOVE KIDS</figcaption>
         </figure>
         
