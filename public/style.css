@@ -192,6 +192,7 @@ header, section, footer, aside, nav, main, article, figure {
 @media screen and (max-width: 767px) {
     .react-main-image h2 span {
         font-size: 10px;
+        padding-right: 10px;
     }
 
     .react-heading {
@@ -202,12 +203,22 @@ header, section, footer, aside, nav, main, article, figure {
     	font-size: 10px;
     }
 
+    .react-description {
+    	font-size: 6px;
+    }
+
+    .react-kesignup {
+    	margin-left: 0px;
+    	margin-right: 0px;
+    	font-size: 8px;
+
 }
 
 /* sm */
 @media screen and (min-width: 768px) {
     .react-main-image h2 span{
         font-size: 20px;
+        padding-right: 10px;
     }
 
     .react-heading {
@@ -223,6 +234,7 @@ header, section, footer, aside, nav, main, article, figure {
 @media screen and (min-width: 992px) {
     .react-main-image h2 span {
         font-size: 40px;
+        padding-right: 10px;
     }
 
     .react-heading {
@@ -238,6 +250,7 @@ header, section, footer, aside, nav, main, article, figure {
 @media screen and (min-width: 1200px) {
     .react-main-image h2 span{
         font-size: 60px;
+        padding-right: 150px;
     }
 
     .react-heading {
