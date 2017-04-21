@@ -30,8 +30,8 @@ export default class KEHome extends React.Component {
   <p className="react-heading">
     WHAT KID EXPERTS DO 
   </p>
-  <div className="react-row row">
-  <div className="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+  <div className="row">
+  <div className="col-xs-12 col-sm-4 col-md-4">
   
     <figure>
       <img className="react-icons" src="baby.png" alt="Baby" height="130" width="130" />
@@ -58,7 +58,7 @@ to every session</p></figcaption>
   </div>
   <section className="react-who-ke-are">
   <p className="react-heading">WHO KID EXPERTS ARE</p>
-    <div className="react-row row">
+    <div className="row">
       <div className="col-xs-12 col-sm-4 col-md-4 col-lg-4" >
         <figure>
           <img className="react-icons" src="compass-transparent.png" alt="Knowledge" height="130" width="130"/>
