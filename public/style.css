@@ -95,9 +95,16 @@ header, section, footer, aside, nav, main, article, figure {
 	text-align: center;
 	font-size: 34px;
 	font-weight: 500;
+	margin-bottom: 50px;
 	/*font-weight: bold;*/
 	/*color: #6F727A;*/
 	color: #606263;
+}
+
+.react-icons {
+	display: block;
+	margin-left: auto;
+	margin-right: auto 
 }
 
 .react-blue-text {
@@ -117,21 +124,39 @@ header, section, footer, aside, nav, main, article, figure {
 	letter-spacing: 1px;
 }
 
+.react-purple-text::after {
+	content: '';
+    width: 13px;
+    height: 2px;
+    background-color: #85B5EC;
+    display: block;
+    margin: 15px auto; 
+}
+
 .react-grey-text {
 	/*color: #C8CACB;
 	color: #606263;*/
 	color: #A6A8AA;
 	max-width: 245px;
 	margin: 0 auto;
-	display:block;
+	/*display:block;*/
 	text-align: center;
 	font-weight: 500;
 	letter-spacing: 0.1px;
 }
 
+.react-description {
+	max-width: 245px;
+    margin: 0 auto;
+    color: #A6A8AA;
+    letter-spacing: 0.1px;
+    font-weight: 500;
+}
+
 .react-who-ke-are {
 	/*border-top: solid #ddd;
 	border-bottom: solid #ddd;*/
+	margin-top: 50px;
 	padding-top: 50px;
 	padding-bottom: 50px;
 	/*background-color: #ddd;*/

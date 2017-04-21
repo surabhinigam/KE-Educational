@@ -37,8 +37,8 @@ export default class KEHome extends React.Component {
   <div className="col-2">
   
     <figure>
-      <img src="baby.png" alt="Baby"  />
-      <figcaption><span className="react-purple-text">CHILDCARE </span> <br /><span className="react-blue-text"> - </span><br /><p className="react-grey-text">Cover babysitting needs 
+      <img className="react-icons" src="baby.png" alt="Baby" height="130" width="130" />
+      <figcaption><span className="react-purple-text">CHILDCARE </span><p className="react-description">Cover babysitting needs 
 (meals, naps, pick up)</p></figcaption>
     </figure>
   </div>
@@ -47,8 +47,8 @@ export default class KEHome extends React.Component {
   </div>
   <div className="col-2">
   <figure>
-      <img src="drum.png" alt="Ideas" />
-      <figcaption><span className="react-purple-text">ACTIVITIES </span><br /><span className="react-blue-text"> - </span><br /><p className="react-grey-text">Incorporate unique, enriching
+      <img className="react-icons" src="drum.png" alt="Ideas" height="130" width="130" />
+      <figcaption><span className="react-purple-text">ACTIVITIES </span><p className="react-description">Incorporate unique, enriching
    activities into childcare</p></figcaption>
     </figure> 
   </div>
@@ -57,8 +57,8 @@ export default class KEHome extends React.Component {
   </div>
   <div className="col-2">
     <figure>
-      <img src="gift.png" alt="Materials" />
-      <figcaption><span className="react-purple-text">SUPPLIES</span><br /><span className="react-blue-text">-</span><br /><p className="react-grey-text">Bring materials and props
+      <img className="react-icons" src="gift.png" alt="Materials" height="130" width="130" />
+      <figcaption><span className="react-purple-text">SUPPLIES</span><p className="react-description">Bring materials and props
 to every session</p></figcaption>
     </figure>
     
@@ -75,8 +75,8 @@ to every session</p></figcaption>
       </div>
       <div className="col-2">
         <figure>
-          <img src="compass-transparent.png" alt="Knowledge" />
-          <figcaption><span className="react-purple-text">BRILLIANT </span><br /><span className="react-blue-text"> - </span><br /><p className="react-grey-text">Artists, teachers and teaching assistants with professional teaching experience</p></figcaption>
+          <img className="react-icons" src="compass-transparent.png" alt="Knowledge" height="130" width="130"/>
+          <figcaption><span className="react-purple-text">BRILLIANT </span><p className="react-description">Artists, teachers and teaching assistants with professional teaching experience</p></figcaption>
         </figure>
       </div>
       <div className="col-1">
@@ -84,8 +84,8 @@ to every session</p></figcaption>
       </div>
       <div className="col-2">
       <figure>
-          <img src="diaper.png" alt="Alphabets" />
-          <figcaption><span className="react-purple-text">EXPERIENCED</span><br /><span className="react-blue-text">-</span><br /><p className="react-grey-text">Baby whispers and kid gurus with childcare/babysitting experience</p></figcaption>
+          <img className="react-icons" src="diaper2.png" alt="Alphabets" height="130" width="130"/>
+          <figcaption><span className="react-purple-text">EXPERIENCED</span><p className="react-description">Baby whispers and kid gurus with childcare/babysitting experience</p></figcaption>
           
         </figure> 
       </div>
@@ -94,8 +94,8 @@ to every session</p></figcaption>
       </div>
       <div className="col-2">
         <figure>
-          <img src="light.png" alt="Light" />
-          <figcaption><span className="react-purple-text">INSPIRING</span><br /><span className="react-blue-text">-</span><br /><p className="react-grey-text">Inspiring role models and good vibes people who love kids</p></figcaption>
+          <img className="react-icons" src="light.png" alt="Light" height="130" width="130"/>
+          <figcaption><span className="react-purple-text">INSPIRING</span><p className="react-description">Inspiring role models and good vibes people who love kids</p></figcaption>
         </figure>
         
       </div>
